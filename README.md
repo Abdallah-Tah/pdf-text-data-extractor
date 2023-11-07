@@ -28,5 +28,5 @@ B --> |Option 2| E[ZIP folder of txt files for pages]
 4. Download your output file (zip/txt).
 
 ## How to support the project
-You can help support the project through feedback and/or [buy me coffee](https://www.buymeacoffee.com/nainiayoub).
+You can help support the project through feedback and/or [buy me coffee](https://www.buymeacoffee.com/abdallah-tah).
 

@@ -44,7 +44,7 @@ with st.sidebar:
     """)
     st.markdown(html_temp.format("rgba(55, 53, 47, 0.16)"),unsafe_allow_html=True)
     st.markdown("""
-    Made by [@nainia_ayoub](https://twitter.com/nainia_ayoub) 
+    Made by [@abdaltm86](https://twitter.com/abdaltm86) 
     """)
     st.markdown(
         """
@@ -125,7 +125,7 @@ if pdf_file:
         st.download_button("Download txt file", text)
 
     st.markdown('''
-    <a target="_blank" style="color: black" href="https://twitter.com/intent/tweet?text=You%20can%20extract%20text%20from%20your%20PDF%20using%20this%20PDF%20to%20Text%20streamlit%20app%20by%20@nainia_ayoub!%0A%0Ahttps://nainiayoub-pdf-text-data-extractor-app-p6hy0z.streamlit.app/">
+    <a target="_blank" style="color: black" href="https://twitter.com/intent/tweet?text=You%20can%20extract%20text%20from%20your%20PDF%20using%20this%20PDF%20to%20Text%20streamlit%20app%20by%20@abdaltm86!%0A%0Ahttps://nainiayoub-pdf-text-data-extractor-app-p6hy0z.streamlit.app/">
         <button class="btn">
             Spread the word!
         </button>
